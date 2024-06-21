@@ -6,5 +6,3 @@ Reference Used:
 https://github.com/ultralytics/yolov5
 
 https://github.com/ivangrov/ModifiedOpenLabelling
-
-Video Demonstration (3:50 Onwards): https://youtu.be/rncY79KKdRI
